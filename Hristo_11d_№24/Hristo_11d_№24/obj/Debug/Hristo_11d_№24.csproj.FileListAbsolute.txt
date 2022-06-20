@@ -1,0 +1,16 @@
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\Hristo_11d_№24.exe.config
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\Hristo_11d_№24.exe
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\Hristo_11d_№24.pdb
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\EntityFramework.dll
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\EntityFramework.xml
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.csproj.AssemblyReference.cache
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d__24.Form1.resources
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d__24.Properties.Resources.resources
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.csproj.GenerateResource.cache
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.csproj.CopyComplete
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.exe
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d_№24.pdb
+C:\Users\Hristo\source\repos\Hristo_11d_№24\Hristo_11d_№24\obj\Debug\Hristo_11d__24.Migrations.InitialMigrationCourier.resources
